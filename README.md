@@ -2,6 +2,8 @@
 
 This project is an AI-powered academic assistant designed to help students interact with their study materials in a conversational Q&A format. It allows users to upload one or more PDFs, such as textbooks, notes, or research papers, and ask natural language questions. The system then provides direct, contextualized answers sourced from the uploaded content, making studying more efficient and engaging.
 
+<img width="1920" height="1080" alt="{BB1B2D60-60C5-4D43-9F82-92924204116E}" src="https://github.com/user-attachments/assets/7e859492-e408-4f47-ab01-ac1ba25e0e07" />
+
 ---
 
 ## 🌟 Features & Uniqueness
