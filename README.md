@@ -30,7 +30,7 @@ The system is built using **Python** and a modular pipeline that handles documen
 
 * **PyMuPDF**: Used for efficient text extraction from PDF files.
 * **SentenceTransformers + FAISS**: Embeds text into vector representations and performs rapid, semantically relevant chunk retrieval based on user queries.
-* **IBM Watsonx LLM (Mixtral-8x7B-Instruct)**: Generates the final, contextualized answer.
+* **IBM Granite**: Generates the final, contextualized answer.
 * **Streamlit or Next.js**: Provides a local, interactive user interface.
 
 
