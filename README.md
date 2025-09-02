@@ -3,6 +3,8 @@
 This project is an AI-powered academic assistant designed to help students interact with their study materials in a conversational Q&A format. It allows users to upload one or more PDFs, such as textbooks, notes, or research papers, and ask natural language questions. The system then provides direct, contextualized answers sourced from the uploaded content, making studying more efficient and engaging.
 
 <img width="1920" height="1080" alt="{BB1B2D60-60C5-4D43-9F82-92924204116E}" src="https://github.com/user-attachments/assets/7e859492-e408-4f47-ab01-ac1ba25e0e07" />
+<img width="1920" height="1080" alt="{1B4F0642-ED5A-4594-9C61-6D98D21F7647}" src="https://github.com/user-attachments/assets/88375c3a-d57a-44a4-a9df-1cab93112ea1" />
+
 
 ---
 
@@ -19,6 +21,7 @@ Note: The model uses IBM granite v3 2b param's instruct as the LLM and all-MiniL
 ## Response takes 1-4min approx depending on the query and the pdf content.
 
 [ Model was tested on RTX3050(notebook) 4gb Vram , 32gb ram and i5 11th gen 6 core @2.70GHz ]
+
 
 
 ## 🌟 Features & Uniqueness
