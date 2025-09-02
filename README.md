@@ -6,6 +6,21 @@ This project is an AI-powered academic assistant designed to help students inter
 
 ---
 
+## Steps to Run.
+
+1. Download the source code.
+2. Install python 3.9+
+3. Install CUDA 12.9
+4. install requirements.txt [pip install -r requirements.txt]
+5. Run using streamlit - [ streamlit run app.py ]
+
+Note: The model uses IBM granite v3 2b param's instruct as the LLM and all-MiniLM-L6-v2 as the embedding model.
+
+## Response takes 1-4min approx depending on the query and the pdf content.
+
+[ Model was tested on RTX3050(notebook) 4gb Vram , 32gb ram and i5 11th gen 6 core @2.70GHz ]
+
+
 ## 🌟 Features & Uniqueness
 
 Instead of manually searching through documents, our assistant simplifies the process by grounding its responses in your specific materials. This tailored application of **Retrieval-Augmented Generation (RAG)** is specifically adapted for academic and educational contexts, ensuring that the answers are not only accurate but also verifiable and directly relevant to the content you're studying. This approach promotes a more responsible use of AI by encouraging critical thinking and preventing over-reliance on unverified information.
