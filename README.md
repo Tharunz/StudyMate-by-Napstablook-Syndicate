@@ -20,6 +20,10 @@ This project is an AI-powered academic assistant designed to help students inter
 4. install requirements.txt [pip install -r requirements.txt]
 5. Run using streamlit - [ streamlit run app.py ]
 
+You will be needing an HuggingFace access token and should login to HuggingFace in the terminal before using running the app.
+login to HuggingFace by typing 'huggingface-cli login' in the terminal.
+
+
 Note: The model uses IBM granite v3 2b param's instruct as the LLM and all-MiniLM-L6-v2 as the embedding model.
 
 ## Response takes 1-4min approx depending on the query and the pdf content.
