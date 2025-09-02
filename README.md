@@ -20,7 +20,7 @@ This project is an AI-powered academic assistant designed to help students inter
 4. install requirements.txt [pip install -r requirements.txt]
 5. Run using streamlit - [ streamlit run app.py ]
 
-You will be needing an HuggingFace access token and should login to HuggingFace in the terminal before using running the app.
+You will be needing a HuggingFace access token and should login to HuggingFace in the terminal before using running the app.
 login to HuggingFace by typing 'huggingface-cli login' in the terminal.
 
 
